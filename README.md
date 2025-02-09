@@ -1,5 +1,5 @@
 # Life_Science_Insurance
-The dataset belongs to a leading life insurance company. The company wantsto predict the bonus for  its agents so that it may design appropriate engagement activity for their high performing agents and up-skill programs for low performing agents.
+The dataset belongs to a leading life insurance company. The company wants to predict the bonus for  its agents so that it may design appropriate engagement activity for their high performing agents and up-skill programs for low performing agents.
 
 ## Overview
 This project focuses on analyzing and predicting agent bonuses for a leading life insurance company. By leveraging data analytics and predictive modeling, the project aims to improve agent incentivization, enhance performance, and optimize business outcomes.
